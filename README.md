@@ -43,7 +43,24 @@
 ### "Initialize" 
 ![image](https://github.com/user-attachments/assets/d1fbd5ae-0d9b-412b-ac9d-3301aeb0e513)
 ### "Fit Pol"
-
-
+![image](https://github.com/user-attachments/assets/d32b7cee-c19a-415a-804e-cd7cccf8469a)
+### "Fit A" 
+![image](https://github.com/user-attachments/assets/4318ad1d-f7ec-4f1d-b69f-c04f981760f3)
+### "Fit Abs Null" 
+![image](https://github.com/user-attachments/assets/b0df7c4c-43f9-48ba-a906-cf2ba5114977)
+### "Fit Abs Null" "Show Table Pol" 
+![image](https://github.com/user-attachments/assets/85482068-01b7-4b1c-a791-cf7953dcecd3)
+### "Show Table A" 
+![image](https://github.com/user-attachments/assets/dba0071c-481d-4a50-8090-c2eccf0330e4)
+### "Show Table Abs Null" 
+#### True
+![image](https://github.com/user-attachments/assets/23ef73a7-0db4-45f0-a836-c53ce9a963e4)
+#### False
+![image](https://github.com/user-attachments/assets/6d8fb50b-6c15-4a39-b64e-4d99274c1921)
+### "Show Graph Pol" 
+![image](https://github.com/user-attachments/assets/ef1cda2d-3751-4d80-84ce-04ff4535eff6)
+### "Show Graph A" 
+![image](https://github.com/user-attachments/assets/0393ac14-dcd6-43f7-820c-dab2b2509970)
 
 ## The result of the program
+
