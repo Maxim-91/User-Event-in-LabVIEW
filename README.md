@@ -12,15 +12,6 @@
 ## Program Appearance
 ![image](https://github.com/user-attachments/assets/798be9e5-caa0-43b4-8b56-64191e79f9a3)
 
-# Main VIm.vi
-## Code
-![image](https://github.com/user-attachments/assets/ab683944-adc2-4853-926a-33ad8085a7cf)
-![image](https://github.com/user-attachments/assets/95deb2f7-05a1-4a97-805d-5e46eb6b28a5)
-![image](https://github.com/user-attachments/assets/5414bb01-7eba-4fe2-99dc-66c21e2c1b7a)
-
-## Program Appearance
-![image](https://github.com/user-attachments/assets/c37399f0-099f-442d-8ff4-f3ca564b0033)
-
 # Result Data.vi
 ## Code
 ###  "No Events", Default
@@ -63,4 +54,5 @@
 ![image](https://github.com/user-attachments/assets/0393ac14-dcd6-43f7-820c-dab2b2509970)
 
 ## The result of the program
+![image](https://github.com/user-attachments/assets/ae3e58eb-fd4f-45c5-916a-7db3902cb714)
 
