@@ -33,7 +33,16 @@
 #### End Start Data
 ![image](https://github.com/user-attachments/assets/229efb37-9c56-460f-a425-dfb9d985dc3d)
 #### Panel Clouse and Stop
-
+![image](https://github.com/user-attachments/assets/5bf99f3a-b2c4-4983-96da-4c70285e7fb7)
+#### Table Polarizer
+![image](https://github.com/user-attachments/assets/830dd6b4-e2c8-4fd7-ae58-bc710cb57697)
+#### Table Analyser
+![image](https://github.com/user-attachments/assets/b0b61915-4295-4770-b5b7-f5bc1703f489)
+#### Minimum Absolute Null
+![image](https://github.com/user-attachments/assets/70da03f0-615f-4ab3-9b04-538395b66bad)
+### "Initialize" 
+![image](https://github.com/user-attachments/assets/d1fbd5ae-0d9b-412b-ac9d-3301aeb0e513)
+### "Fit Pol"
 
 
 
